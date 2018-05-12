@@ -1,4 +1,4 @@
-import DbClient = require("./commom/DbClient")
+import DbClient = require("./common/DbClient")
 
 class App {
     public async start() {
